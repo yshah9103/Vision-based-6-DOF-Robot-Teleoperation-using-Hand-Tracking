@@ -1,0 +1,4 @@
+Symlinking /home/ntnghia1999/dynamics_final/devel/share/franka_moveit/cmake/franka_moveitConfig-version.cmake
+Symlinking /home/ntnghia1999/dynamics_final/devel/share/franka_moveit/cmake/franka_moveitConfig.cmake
+Symlinking /home/ntnghia1999/dynamics_final/devel/lib/pkgconfig/franka_moveit.pc
+Symlinking /home/ntnghia1999/dynamics_final/devel/lib/python2.7/dist-packages/franka_moveit/__init__.py

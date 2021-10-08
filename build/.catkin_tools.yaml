@@ -1,0 +1,6 @@
+devel_space: /home/ntnghia1999/dynamics_final/devel
+install: false
+install_space: /home/ntnghia1999/dynamics_final/install
+profile: default
+source_space: /home/ntnghia1999/dynamics_final/src
+workspace: /home/ntnghia1999/dynamics_final

@@ -1,0 +1,7 @@
+[35m[1mScanning dependencies of target franka_core_msgs_generate_messages_py[0m
+[  0%] Built target franka_core_msgs_generate_messages_py
+[35m[1mScanning dependencies of target panda_sim_custom_action_server_gencfg[0m
+[100%] [34m[1mGenerating dynamic reconfigure files from cfg/PandaPositionFFJointTrajectoryActionServer.cfg: /home/ntnghia1999/dynamics_final/devel/.private/panda_sim_custom_action_server/include/panda_sim_custom_action_server/PandaPositionFFJointTrajectoryActionServerConfig.h /home/ntnghia1999/dynamics_final/devel/.private/panda_sim_custom_action_server/lib/python2.7/dist-packages/panda_sim_custom_action_server/cfg/PandaPositionFFJointTrajectoryActionServerConfig.py[0m
+Generating reconfiguration files for PandaPositionFFJointTrajectoryActionServer in panda_joint_trajectory_action
+Wrote header file in /home/ntnghia1999/dynamics_final/devel/.private/panda_sim_custom_action_server/include/panda_sim_custom_action_server/PandaPositionFFJointTrajectoryActionServerConfig.h
+[100%] Built target panda_sim_custom_action_server_gencfg

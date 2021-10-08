@@ -1,0 +1,21 @@
+[100%] Built target python_module_PyKDL
+[36mInstall the project...[0m
+-- Install configuration: ""
+-- Installing: /home/ntnghia1999/dynamics_final/devel/lib/python2.7/dist-packages/PyKDL.so
+-- Set runtime path of "/home/ntnghia1999/dynamics_final/devel/lib/python2.7/dist-packages/PyKDL.so" to ""
+-- Installing: /home/ntnghia1999/dynamics_final/devel/share/python_orocos_kdl/package.xml
+-- Installing: /home/ntnghia1999/dynamics_final/devel/_setup_util.py
+-- Installing: /home/ntnghia1999/dynamics_final/devel/env.sh
+-- Installing: /home/ntnghia1999/dynamics_final/devel/setup.bash
+-- Installing: /home/ntnghia1999/dynamics_final/devel/local_setup.bash
+-- Installing: /home/ntnghia1999/dynamics_final/devel/setup.sh
+-- Installing: /home/ntnghia1999/dynamics_final/devel/local_setup.sh
+-- Installing: /home/ntnghia1999/dynamics_final/devel/setup.zsh
+-- Installing: /home/ntnghia1999/dynamics_final/devel/local_setup.zsh
+-- Installing: /home/ntnghia1999/dynamics_final/devel/.rosinstall
+-- Installing: /home/ntnghia1999/dynamics_final/devel/etc/catkin/profile.d/python_orocos_kdl_site_packages.bash
+-- Installing: /home/ntnghia1999/dynamics_final/devel/share/python_orocos_kdl/catkin_env_hook/python_orocos_kdl_site_packages.bash
+-- Installing: /home/ntnghia1999/dynamics_final/devel/etc/catkin/profile.d/python_orocos_kdl_site_packages.tcsh
+-- Installing: /home/ntnghia1999/dynamics_final/devel/share/python_orocos_kdl/catkin_env_hook/python_orocos_kdl_site_packages.tcsh
+-- Installing: /home/ntnghia1999/dynamics_final/devel/etc/catkin/profile.d/python_orocos_kdl_site_packages.zsh
+-- Installing: /home/ntnghia1999/dynamics_final/devel/share/python_orocos_kdl/catkin_env_hook/python_orocos_kdl_site_packages.zsh

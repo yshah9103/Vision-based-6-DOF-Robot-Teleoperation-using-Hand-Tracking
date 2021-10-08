@@ -1,0 +1,22 @@
+\subsubsection usage Usage
+\verbatim
+<node name="" pkg="panda_joint_trajectory_action" type="">
+  <param name="goal_time" type="double" value="0.1" />
+  <param name="stopped_velocity_tolerance" type="double" value="0.2" />
+  <param name="panda_joint1_goal" type="double" value="-0.2" />
+  <param name="panda_joint2_goal" type="double" value="-0.2" />
+  <param name="panda_joint3_goal" type="double" value="-0.2" />
+  <param name="panda_joint4_goal" type="double" value="-0.2" />
+  <param name="panda_joint5_goal" type="double" value="-0.2" />
+  <param name="panda_joint6_goal" type="double" value="-0.2" />
+  <param name="panda_joint7_goal" type="double" value="-0.2" />
+  <param name="panda_joint1_trajectory" type="double" value="0.2" />
+  <param name="panda_joint2_trajectory" type="double" value="0.2" />
+  <param name="panda_joint3_trajectory" type="double" value="0.2" />
+  <param name="panda_joint4_trajectory" type="double" value="0.2" />
+  <param name="panda_joint5_trajectory" type="double" value="0.2" />
+  <param name="panda_joint6_trajectory" type="double" value="0.2" />
+  <param name="panda_joint7_trajectory" type="double" value="0.2" />
+</node>
+\endverbatim
+

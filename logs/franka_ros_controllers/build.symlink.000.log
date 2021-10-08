@@ -1,0 +1,11 @@
+Symlinking /home/ntnghia1999/dynamics_final/devel/share/franka_ros_controllers/cmake/franka_ros_controllersConfig.cmake
+Symlinking /home/ntnghia1999/dynamics_final/devel/share/franka_ros_controllers/cmake/franka_ros_controllersConfig-version.cmake
+Symlinking /home/ntnghia1999/dynamics_final/devel/share/franka_ros_controllers/docs/joint_controller_paramsConfig-usage.dox
+Symlinking /home/ntnghia1999/dynamics_final/devel/share/franka_ros_controllers/docs/joint_controller_paramsConfig.wikidoc
+Symlinking /home/ntnghia1999/dynamics_final/devel/share/franka_ros_controllers/docs/joint_controller_paramsConfig.dox
+Symlinking /home/ntnghia1999/dynamics_final/devel/include/franka_ros_controllers/joint_controller_paramsConfig.h
+Symlinking /home/ntnghia1999/dynamics_final/devel/lib/libfranka_ros_controllers.so
+Symlinking /home/ntnghia1999/dynamics_final/devel/lib/pkgconfig/franka_ros_controllers.pc
+Symlinking /home/ntnghia1999/dynamics_final/devel/lib/python2.7/dist-packages/franka_ros_controllers/__init__.py
+Symlinking /home/ntnghia1999/dynamics_final/devel/lib/python2.7/dist-packages/franka_ros_controllers/cfg/__init__.py
+Symlinking /home/ntnghia1999/dynamics_final/devel/lib/python2.7/dist-packages/franka_ros_controllers/cfg/joint_controller_paramsConfig.py

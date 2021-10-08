@@ -1,0 +1,21 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~position_joint_delta_filter" : \b [double] Filter parameter that dictates how smoothly subsequent joint position commands are smoothed. Also responsible for speed of joint position execution. min: 0.1, default: 0.3, max: 1.0
+- \b "~velocity_joint_delta_filter" : \b [double] Filter parameter that dictates how smoothly subsequent joint velocity commands are smoothed. Also responsible for acceleration of joints. min: 0.1, default: 0.3, max: 1.0
+- \b "~j1_k" : \b [double] Stiffness parameter of joint 1 min: 200.0, default: 1200.0, max: 1500.0
+- \b "~j2_k" : \b [double] Stiffness parameter of joint 2 min: 200.0, default: 1000.0, max: 1500.0
+- \b "~j3_k" : \b [double] Stiffness parameter of joint 3 min: 200.0, default: 1000.0, max: 1500.0
+- \b "~j4_k" : \b [double] Stiffness parameter of joint 4 min: 200.0, default: 800.0, max: 1500.0
+- \b "~j5_k" : \b [double] Stiffness parameter of joint 5 min: 100.0, default: 300.0, max: 1000.0
+- \b "~j6_k" : \b [double] Stiffness parameter of joint 6 min: 75.0, default: 200.0, max: 500.0
+- \b "~j7_k" : \b [double] Stiffness parameter of joint 7 min: 20.0, default: 50.0, max: 200.0
+- \b "~j1_d" : \b [double] Damping parameter of joint 1 min: 0.0, default: 50.0, max: 200.0
+- \b "~j2_d" : \b [double] Damping parameter of joint 2 min: 0.0, default: 50.0, max: 200.0
+- \b "~j3_d" : \b [double] Damping parameter of joint 3 min: 0.0, default: 50.0, max: 200.0
+- \b "~j4_d" : \b [double] Damping parameter of joint 4 min: 0.0, default: 20.0, max: 200.0
+- \b "~j5_d" : \b [double] Damping parameter of joint 5 min: 0.0, default: 20.0, max: 200.0
+- \b "~j6_d" : \b [double] Damping parameter of joint 6 min: 0.0, default: 20.0, max: 200.0
+- \b "~j7_d" : \b [double] Damping parameter of joint 7 min: 0.0, default: 10.0, max: 200.0
+

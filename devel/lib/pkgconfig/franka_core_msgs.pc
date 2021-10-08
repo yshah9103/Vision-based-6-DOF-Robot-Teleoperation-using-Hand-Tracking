@@ -1,0 +1,1 @@
+/home/ntnghia1999/dynamics_final/devel/.private/franka_core_msgs/lib/pkgconfig/franka_core_msgs.pc

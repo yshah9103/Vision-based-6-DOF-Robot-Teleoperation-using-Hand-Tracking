@@ -1,0 +1,15 @@
+(cl:defpackage franka_core_msgs-msg
+  (:use )
+  (:export
+   "<ENDPOINTSTATE>"
+   "ENDPOINTSTATE"
+   "<JOINTCOMMAND>"
+   "JOINTCOMMAND"
+   "<JOINTCONTROLLERSTATES>"
+   "JOINTCONTROLLERSTATES"
+   "<JOINTLIMITS>"
+   "JOINTLIMITS"
+   "<ROBOTSTATE>"
+   "ROBOTSTATE"
+  ))
+

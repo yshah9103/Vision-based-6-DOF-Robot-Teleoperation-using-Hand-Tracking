@@ -1,0 +1,1 @@
+/home/ntnghia1999/dynamics_final/devel/.private/franka_panda_description/lib/pkgconfig/franka_panda_description.pc

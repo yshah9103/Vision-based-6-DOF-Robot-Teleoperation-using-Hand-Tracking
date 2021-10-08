@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libgtest.so -o libgtest.so CMakeFiles/gtest.dir/src/gtest-all.cc.o  -L/home/ntnghia1999/dynamics_final/build/franka_ros_controllers/gtest/googlemock/gtest/src -Wl,-rpath,/home/ntnghia1999/dynamics_final/build/franka_ros_controllers/gtest/googlemock/gtest/src -lpthread 

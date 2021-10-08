@@ -1,0 +1,10 @@
+Symlinking /home/ntnghia1999/dynamics_final/devel/share/panda_sim_custom_action_server/cmake/panda_sim_custom_action_serverConfig.cmake
+Symlinking /home/ntnghia1999/dynamics_final/devel/share/panda_sim_custom_action_server/cmake/panda_sim_custom_action_serverConfig-version.cmake
+Symlinking /home/ntnghia1999/dynamics_final/devel/share/panda_sim_custom_action_server/docs/PandaPositionFFJointTrajectoryActionServerConfig.dox
+Symlinking /home/ntnghia1999/dynamics_final/devel/share/panda_sim_custom_action_server/docs/PandaPositionFFJointTrajectoryActionServerConfig.wikidoc
+Symlinking /home/ntnghia1999/dynamics_final/devel/share/panda_sim_custom_action_server/docs/PandaPositionFFJointTrajectoryActionServerConfig-usage.dox
+Symlinking /home/ntnghia1999/dynamics_final/devel/include/panda_sim_custom_action_server/PandaPositionFFJointTrajectoryActionServerConfig.h
+Symlinking /home/ntnghia1999/dynamics_final/devel/lib/pkgconfig/panda_sim_custom_action_server.pc
+Symlinking /home/ntnghia1999/dynamics_final/devel/lib/python2.7/dist-packages/panda_sim_custom_action_server/__init__.py
+Symlinking /home/ntnghia1999/dynamics_final/devel/lib/python2.7/dist-packages/panda_sim_custom_action_server/cfg/__init__.py
+Symlinking /home/ntnghia1999/dynamics_final/devel/lib/python2.7/dist-packages/panda_sim_custom_action_server/cfg/PandaPositionFFJointTrajectoryActionServerConfig.py

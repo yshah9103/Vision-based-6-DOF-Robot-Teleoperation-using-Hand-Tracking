@@ -1,0 +1,12 @@
+Symlinking /home/ntnghia1999/dynamics_final/devel/./local_setup.sh
+Symlinking /home/ntnghia1999/dynamics_final/devel/./local_setup.bash
+Symlinking /home/ntnghia1999/dynamics_final/devel/./_setup_util.py
+Symlinking /home/ntnghia1999/dynamics_final/devel/./setup.sh
+Symlinking /home/ntnghia1999/dynamics_final/devel/./setup.bash
+Symlinking /home/ntnghia1999/dynamics_final/devel/./cmake.lock
+Symlinking /home/ntnghia1999/dynamics_final/devel/./setup.zsh
+Symlinking /home/ntnghia1999/dynamics_final/devel/./env.sh
+Symlinking /home/ntnghia1999/dynamics_final/devel/./local_setup.zsh
+Symlinking /home/ntnghia1999/dynamics_final/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/ntnghia1999/dynamics_final/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/ntnghia1999/dynamics_final/devel/lib/pkgconfig/catkin_tools_prebuild.pc

@@ -1,0 +1,4 @@
+Symlinking /home/ntnghia1999/dynamics_final/devel/share/panda_sim_controllers/cmake/panda_sim_controllersConfig-version.cmake
+Symlinking /home/ntnghia1999/dynamics_final/devel/share/panda_sim_controllers/cmake/panda_sim_controllersConfig.cmake
+Symlinking /home/ntnghia1999/dynamics_final/devel/lib/libpanda_sim_controllers.so
+Symlinking /home/ntnghia1999/dynamics_final/devel/lib/pkgconfig/panda_sim_controllers.pc

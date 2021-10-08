@@ -1,0 +1,8 @@
+prefix=/home/ntnghia1999/dynamics_final/devel/.private/panda_sim_custom_action_server
+
+Name: panda_sim_custom_action_server
+Description: Description of panda_sim_custom_action_server
+Version: 1.0.0
+Cflags: -I/home/ntnghia1999/dynamics_final/devel/.private/panda_sim_custom_action_server/include
+Libs: -L${prefix}/lib 
+Requires: rospy actionlib sensor_msgs std_msgs control_msgs trajectory_msgs dynamic_reconfigure franka_core_msgs franka_interface panda_moveit_config

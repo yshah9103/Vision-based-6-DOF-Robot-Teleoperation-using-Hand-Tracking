@@ -1,0 +1,8 @@
+prefix=/home/ntnghia1999/dynamics_final/devel/.private/panda_gazebo
+
+Name: panda_gazebo
+Description: Description of panda_gazebo
+Version: 1.0.0
+Cflags: -I/home/ntnghia1999/dynamics_final/src/panda_simulator/panda_gazebo/include
+Libs: -L${prefix}/lib -lpanda_robot_hw_sim
+Requires: panda_hardware_interface gazebo_ros_control image_transport franka_core_msgs realtime_tools roscpp kdl_parser tf_conversions panda_sim_controllers panda_sim_custom_action_server

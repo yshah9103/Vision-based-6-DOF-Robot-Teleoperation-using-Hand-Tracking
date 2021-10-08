@@ -1,0 +1,7 @@
+Symlinking /home/ntnghia1999/dynamics_final/devel/share/franka_interface/cmake/franka_interfaceConfig.cmake
+Symlinking /home/ntnghia1999/dynamics_final/devel/share/franka_interface/cmake/franka_interfaceConfig-version.cmake
+Symlinking /home/ntnghia1999/dynamics_final/devel/lib/libcustom_franka_state_controller.so
+Symlinking /home/ntnghia1999/dynamics_final/devel/lib/franka_interface/custom_franka_control_node
+Symlinking /home/ntnghia1999/dynamics_final/devel/lib/pkgconfig/franka_interface.pc
+Symlinking /home/ntnghia1999/dynamics_final/devel/lib/python2.7/dist-packages/franka_interface/__init__.py
+Symlinking /home/ntnghia1999/dynamics_final/devel/lib/python2.7/dist-packages/franka_dataflow/__init__.py

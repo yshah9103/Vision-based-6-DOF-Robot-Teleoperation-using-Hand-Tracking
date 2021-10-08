@@ -1,0 +1,8 @@
+prefix=/home/ntnghia1999/dynamics_final/install
+
+Name: franka_ros_controllers
+Description: Description of franka_ros_controllers
+Version: 0.7.1
+Cflags: -I${prefix}/include -I/opt/ros/melodic/include/libfranka
+Libs: -L${prefix}/lib -lfranka_ros_controllers /opt/ros/melodic/lib/libfranka.so.0.8.0
+Requires: controller_interface dynamic_reconfigure franka_hw geometry_msgs franka_core_msgs hardware_interface message_runtime pluginlib realtime_tools roscpp

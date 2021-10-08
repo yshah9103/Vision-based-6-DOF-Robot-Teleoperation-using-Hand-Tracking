@@ -1,0 +1,5 @@
+Symlinking /home/ntnghia1999/dynamics_final/devel/share/panda_gazebo/cmake/panda_gazeboConfig-version.cmake
+Symlinking /home/ntnghia1999/dynamics_final/devel/share/panda_gazebo/cmake/panda_gazeboConfig.cmake
+Symlinking /home/ntnghia1999/dynamics_final/devel/lib/libpanda_robot_hw_sim.so
+Symlinking /home/ntnghia1999/dynamics_final/devel/lib/libpanda_gazebo_ros_control.so
+Symlinking /home/ntnghia1999/dynamics_final/devel/lib/pkgconfig/panda_gazebo.pc

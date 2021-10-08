@@ -1,0 +1,8 @@
+prefix=/home/ntnghia1999/dynamics_final/install
+
+Name: franka_interface
+Description: Description of franka_interface
+Version: 0.7.1
+Cflags: -I/opt/ros/melodic/include/libfranka
+Libs: -L${prefix}/lib -lcustom_franka_state_controller /opt/ros/melodic/lib/libfranka.so.0.8.0
+Requires: controller_interface franka_msgs dynamic_reconfigure franka_hw franka_control franka_core_msgs geometry_msgs hardware_interface pluginlib realtime_tools roscpp

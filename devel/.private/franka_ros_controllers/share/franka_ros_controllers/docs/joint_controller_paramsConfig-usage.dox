@@ -1,0 +1,22 @@
+\subsubsection usage Usage
+\verbatim
+<node name="controller_configurations" pkg="franka_ros_controllers" type="controller_configurations">
+  <param name="position_joint_delta_filter" type="double" value="0.3" />
+  <param name="velocity_joint_delta_filter" type="double" value="0.3" />
+  <param name="j1_k" type="double" value="1200.0" />
+  <param name="j2_k" type="double" value="1000.0" />
+  <param name="j3_k" type="double" value="1000.0" />
+  <param name="j4_k" type="double" value="800.0" />
+  <param name="j5_k" type="double" value="300.0" />
+  <param name="j6_k" type="double" value="200.0" />
+  <param name="j7_k" type="double" value="50.0" />
+  <param name="j1_d" type="double" value="50.0" />
+  <param name="j2_d" type="double" value="50.0" />
+  <param name="j3_d" type="double" value="50.0" />
+  <param name="j4_d" type="double" value="20.0" />
+  <param name="j5_d" type="double" value="20.0" />
+  <param name="j6_d" type="double" value="20.0" />
+  <param name="j7_d" type="double" value="10.0" />
+</node>
+\endverbatim
+

@@ -1,0 +1,8 @@
+prefix=/home/ntnghia1999/dynamics_final/devel/.private/panda_sim_controllers
+
+Name: panda_sim_controllers
+Description: Description of panda_sim_controllers
+Version: 1.0.0
+Cflags: -I/home/ntnghia1999/dynamics_final/src/panda_simulator/panda_sim_controllers/include
+Libs: -L${prefix}/lib -lpanda_sim_controllers
+Requires: panda_hardware_interface roscpp actionlib actionlib_msgs

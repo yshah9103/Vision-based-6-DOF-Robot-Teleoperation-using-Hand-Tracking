@@ -1,0 +1,8 @@
+prefix=/home/ntnghia1999/dynamics_final/devel/.private/franka_moveit
+
+Name: franka_moveit
+Description: Description of franka_moveit
+Version: 0.7.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
